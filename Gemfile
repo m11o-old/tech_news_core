@@ -82,17 +82,8 @@ gem 'twitter-bootstrap-rails'
 gem 'active_decorator'
 gem 'meta-tags'
 gem 'ridgepole'
-gem 'devise'
 gem 'kaminari'
 gem "font-awesome-rails"
 gem 'state_machine'
-gem 'rmagick'
-gem 'paperclip', "~> 5.0.0"
 gem 'faraday_middleware'
-gem 'aws-sdk', '< 2.0'
 gem 'whenever', require: false
-gem 'delayed_job_active_record'
-gem 'jquery-ui-rails'
-gem 'jquery-rails'
-gem 'tag-it-rails'
-gem "daemons"
